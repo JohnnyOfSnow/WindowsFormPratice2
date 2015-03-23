@@ -1,0 +1,14 @@
+﻿已經開始建置於 2015/3/23 下午 12:12:05。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\utaipei\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\utaipei\documents\visual studio 2013\projects\project1\project1\MyForm.h(465): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉型
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\utaipei\documents\visual studio 2013\Projects\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\Project1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\utaipei\documents\visual studio 2013\Projects\Project1\Debug\Project1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\utaipei\documents\visual studio 2013\Projects\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\MyForm.obj
+         Project1.vcxproj -> c:\users\utaipei\documents\visual studio 2013\Projects\Project1\Debug\Project1.exe
+     1>專案 "c:\Users\utaipei\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.93
